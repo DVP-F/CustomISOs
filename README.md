@@ -1,6 +1,6 @@
 # CustomISOs
 
-For each ISO i upload here, the result will be in a release.
-Different types eg. Windows/Linux will be different branches
+isos uploaded here will be in releases
 
-The end version will contain the base iso if that was used as well as any config files zipped as .rar, .zip, .7z, .tar.gz or similar, most likely multiple but not guaranteed. 
+for windows itll include a .wim, and the result .iso
+these will be named after the base iso and prefixed with an identifier
